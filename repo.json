@@ -3,7 +3,7 @@
         "Author":  "Dawid",
         "Name":  "Atelier",
         "InternalName":  "Atelier",
-        "AssemblyVersion":  "0.6.0.0",
+        "AssemblyVersion":  "0.6.1.0",
         "Description":  "Replaces clunky game windows with mouse-and-keyboard windows in the HealFrames skins (Ledger, Heraldry, Signal). Each window is a module you can switch off to get the game\u0027s own window back. One click does one thing; nothing runs on its own.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -20,12 +20,12 @@
         "Punchline":  "PC-first replacements for FFXIV\u0027s console-style windows.",
         "AcceptsFeedback":  true,
         "RepoUrl":  "https://github.com/Gompex/atelier-releases",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Gompex/atelier-releases/main/plugins/Atelier/Atelier-0.6.0.0.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Gompex/atelier-releases/main/plugins/Atelier/Atelier-0.6.0.0.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Gompex/atelier-releases/main/plugins/Atelier/Atelier-0.6.0.0.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Gompex/atelier-releases/main/plugins/Atelier/Atelier-0.6.1.0.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Gompex/atelier-releases/main/plugins/Atelier/Atelier-0.6.1.0.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Gompex/atelier-releases/main/plugins/Atelier/Atelier-0.6.1.0.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "LastUpdate":  1795023671,
-        "Changelog":  "0.6.0: palette finds armoury items, recipes and gatherables; most-used entries first"
+        "LastUpdate":  1795024797,
+        "Changelog":  "0.6.1: palette finds items, recipes and gatherables; customizable shortcut (Win+Space by default)"
     }
 ]
