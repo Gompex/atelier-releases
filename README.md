@@ -20,4 +20,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.5.0.0** - 0.5.0: palette, Duty Finder, Character with 3D preview, Crafting log, retainer roster
+Current version: **0.6.0.0** - 0.6.0: palette finds armoury items, recipes and gatherables; most-used entries first
