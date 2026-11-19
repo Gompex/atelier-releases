@@ -20,4 +20,4 @@ This repository only holds the release zips and `repo.json` for Dalamud. The sou
 
 New versions arrive like any other plugin update.
 
-Current version: **0.6.1.0** - 0.6.1: palette finds items, recipes and gatherables; customizable shortcut (Win+Space by default)
+Current version: **0.11.0.0** - New windows: Teleport, Collections, Social, Vendor shop, Journal, Achievements & Hunting Log, Party Finder, Market Board. Character: Look tab (dyes, glamour, plates), recommended gear, gearset update/rename/save, reliable equipping. Duty Finder artwork banners.
